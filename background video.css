@@ -342,12 +342,12 @@ display: block;
 	position: absolute;
 	padding: 30px 40px;
 	left: 50%;
-	top: 790%;
+	top:40%;
 	transform: translate(-50%,-50%);
 	border-radius: 30px;
 	background-size: cover;
 	box-shadow: 5px 25px 30px rgba(0, 0, 0, 0.15);
-	margin-top: -35px
+	
 }
 table td {
 	padding: 20px
@@ -466,4 +466,15 @@ h12 {
 .content4 {
 	text-align: center;
 	margin-top: 30px
+}
+.contact-5 {
+	position: relative;
+	height: 600px;
+	width: 100%
+}
+.menu1 {
+	
+	position: relative;
+	height: 50px;
+	margin-top: -520px
 }
